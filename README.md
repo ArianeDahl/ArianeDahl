@@ -1,4 +1,16 @@
-### Hi there 👋
+# Hi there!
+## My name is Ariane
+I live in Hamburg and I'm currently learninng web development. I've been working as a nurse for several years, and studied medicine for a few semester. In fall 2022 I decided to do a retraining as a web engenieer. 
+My interests are:
+- sport (running, dancing)
+- yoga 
+- art 
+- traveling & getting to know other cultures
+- vegetarian & vegan food (I love to cook)
+
+![picture](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80)
+
+
 
 <!--
 **ArianeDahl/ArianeDahl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -6,7 +18,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning web dev.
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
