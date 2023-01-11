@@ -1,11 +1,7 @@
 # Hi there!
 ## My name is Ariane
-I live in Hamburg and I'm currently learninng web development. I've been working as a nurse for several years, and studied medicine for a few semester. In fall 2022 I decided to do a retraining as a web engenieer. 
-My interests are:
-- Sport (running, dancing, yoga)
-- Art 
-- Traveling & getting to know other cultures
-- Vegetarian & vegan food (I love to cook)
+I live in Hamburg and I'm currently learning web development. 
+I've been working as a nurse for several years, and studied medicine for a few semester. In fall 2022 I decided to do a retraining as a web engenieer. 
 
 ![picture](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80)
 
