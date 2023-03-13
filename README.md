@@ -1,7 +1,7 @@
 # Hi there!
 ## My name is Ariane
-I live in Hamburg, Germany, and I'm currently learning web development (bootcamp).
-I'm currently working on my app.
+I live in Hamburg, Germany, and I'm learning web development (bootcamp).
+I'm currently working on my app called Seasony.
 
 
 ![picture](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80)
