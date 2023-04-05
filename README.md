@@ -1,10 +1,19 @@
 # Hi there!
-## My name is Ariane
-I'm learning web development and I'm currently attending a bootcamp.
-I'm working on my app called Seasony (Capstone Project).
-
 
 ![picture](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80)
+
+## My name is Ariane 
+
+I just finished my bootcamp at neuefische.
+And I'm currently working on my app called Seasony that I started during my retraining.
+
+
+## Skills:
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,git)](https://skillicons.dev)
+
+
+
 
 
 
