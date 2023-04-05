@@ -1,7 +1,5 @@
 # Hi there!
 
-![picture](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80)
-
 ## My name is Ariane 
 
 I just finished my bootcamp at neuefische.
@@ -11,6 +9,17 @@ And I'm currently working on my app called Seasony that I started during my retr
 ## Skills:
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nextjs,git)](https://skillicons.dev)
+
+## GitHub Stats:
+
+![Ai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArianeDahl&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=blueberry)
+
+![picture](https://images.unsplash.com/photo-1477332552946-cfb384aeaf1c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80)
+
+
+
 
 
 
